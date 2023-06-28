@@ -1,6 +1,6 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
-  "model": "gpt-3.5-turbo",
+  "open_ai_api_key": "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",
+  "model": "gpt-4",
   "linkai_api_key": "YOUR API KEY",
   "linkai_app_code": "",
   "proxy": "",
@@ -13,11 +13,10 @@
     "@bot"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "GPT4.0体验群"
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    "GPT4.0体验群"
   ],
   "image_create_prefix": [
     "画",
